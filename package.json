@@ -2,9 +2,9 @@
   "description": "A frontend for Home Assistant using the Polymer framework",
   "repository": {
     "type": "git",
-    "url": "https://github.com/home-assistant/home-assistant-polymer"
+    "url": "https://github.com/nordicenergy/home-assistant-polymer"
   },
-  "name": "home-assistant-frontend",
+  "name": "nordic-energy-home-assistant-frontend",
   "version": "1.0.0",
   "scripts": {
     "build": "script/build_frontend",
